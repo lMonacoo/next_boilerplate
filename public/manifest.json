@@ -1,0 +1,21 @@
+{
+  "name": "React Avançado - Boilerplace",
+  "short_name": "React Avançado",
+  "icons": [
+    {
+      "src": "/img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Boilerplate utilizando Typescript, React, NextJS e styled Components!",
+  "display":"fullscreen",
+  "start_url":"/",
+  "theme_color": "#06092B"
+}
